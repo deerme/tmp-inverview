@@ -32,7 +32,7 @@
 10. **Explique el concepto de polimorfismo en Java y proporcione un ejemplo de su aplicación en un programa.**
     - El polimorfismo en Java se refiere a la capacidad de una clase para tomar varias formas. Esto se puede lograr mediante el uso de herencia y la sobrescritura de métodos. Por ejemplo, si tenemos una clase `Animal` con un método `hacerSonido`, y luego creamos subclases como `Perro` y `Gato` que anulan el método `hacerSonido` para que hagan diferentes sonidos. Luego, podemos tratar a un objeto `Perro` y un objeto `Gato` como objetos `Animal`, ya que ambas clases son subclases de `Animal`.
 
-## Preguntas Adicionales utilizando la Metodología STAR de Amazon
+## Preguntas Adicionales utilizando la Metodología STAR 
 
 1. **Situación:** Durante un proyecto anterior, ¿te enfrentaste a un problema complejo de rendimiento en una aplicación Java?
    **Tarea:** ¿Cuál era el objetivo del proyecto y cuál era tu papel en la resolución del problema?
